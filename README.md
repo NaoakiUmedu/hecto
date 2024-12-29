@@ -2,4 +2,4 @@
 
 https://www.flenker.blog/hecto/
 
-NEXT => https://www.flenker.blog/hecto-chapter-2/
+NEXT => https://www.flenker.blog/hecto-chapter-3/
